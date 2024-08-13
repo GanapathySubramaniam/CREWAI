@@ -2,18 +2,6 @@
 
 Welcome to the CrewAI Food and Beverage Delivery Analyzer! This project leverages the power of AI agents to analyze trends, markets, and develop innovative product ideas in the food and beverage delivery industry.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Agents](#agents)
-- [Tasks](#tasks)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌟 Overview
 
 This CrewAI project is designed to provide comprehensive insights into the food and beverage delivery sector. It utilizes a team of AI agents to analyze trends, study market dynamics, and propose new product ideas.
