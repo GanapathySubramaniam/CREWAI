@@ -70,10 +70,5 @@ The results will be printed to the console, and a product proposal will be saved
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Created with ❤️ using CrewAI
