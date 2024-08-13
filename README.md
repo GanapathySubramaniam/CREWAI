@@ -37,18 +37,13 @@ CrewAI empowers you to:
 
 ## 🛠️ Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-crewai-project.git
-   cd your-crewai-project
-   ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Set up environment variables:
+2. Set up environment variables:
    Create a `.env` file with your API keys:
    ```
    OPENAI_API_KEY=your_openai_api_key
