@@ -1,6 +1,5 @@
 # 🚀 CrewAI Project: AI-Powered Industry Analysis
 
-![CrewAI Banner](https://your-image-url-here.com/crewai-banner.png)
 
 Welcome to this CrewAI-powered project! Witness the power of AI collaboration as we analyze trends, markets, and product opportunities in the food and beverage delivery industry.
 
